@@ -2,10 +2,10 @@
   This repository contains a LaTex file of my résumé. Hosting my résumé on GitHub offers many benefits. I can:
   
   
-  +Branch from the main copy to cater different potential employers
-  +Progress my resume without losing older copies
-  +Have my résumé accessible and organized
-  +Clearly document my growth as a programmer through the Git diff feature
+  + Branch from the main copy to cater different potential employers
+  + Progress my resume without losing older copies
+  + Have my résumé accessible and organized
+  + Clearly document my growth as a programmer through the Git diff feature
   
   
   
